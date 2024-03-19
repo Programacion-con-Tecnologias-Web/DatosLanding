@@ -1,0 +1,31 @@
+[{
+  "id": 1,
+  "name": "Kate",
+  "role": "Marketing Director",
+  "comment": "gravida nisi at nibh in hac habitasse platea dictumst",
+  "image": "http://dummyimage.com/180x100.png/dddddd/000000"
+}, {
+  "id": 2,
+  "name": "Aldin",
+  "role": "Marketing Director",
+  "comment": "interdum mauris non ligula pellentesque ultrices phasellus id sapien in",
+  "image": "http://dummyimage.com/237x100.png/cc0000/ffffff"
+}, {
+  "id": 3,
+  "name": "Gussy",
+  "role": "Owner Hair Salon",
+  "comment": "morbi porttitor lorem id ligula suspendisse",
+  "image": "http://dummyimage.com/173x100.png/ff4444/ffffff"
+}, {
+  "id": 4,
+  "name": "Beatrix",
+  "role": "Gerente de ventas",
+  "comment": "risus auctor sed tristique in tempus sit",
+  "image": "http://dummyimage.com/139x100.png/dddddd/000000"
+}, {
+  "id": 5,
+  "name": "Nomi",
+  "role": "Owner Hair Salon",
+  "comment": "sed lacus morbi sem mauris laoreet ut rhoncus",
+  "image": "http://dummyimage.com/128x100.png/cc0000/ffffff"
+}]

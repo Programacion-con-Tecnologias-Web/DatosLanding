@@ -1,0 +1,26 @@
+[{
+  "id": 1,
+  "name": "Hair Salon Pro",
+  "address": "4524 Cordelia Place",
+  "image": "http://dummyimage.com/178x100.png/cc0000/ffffff"
+}, {
+  "id": 2,
+  "name": "Hair Salon Pro",
+  "address": "99 Mariners Cove Hill",
+  "image": "http://dummyimage.com/173x100.png/5fa2dd/ffffff"
+}, {
+  "id": 3,
+  "name": "My Nails",
+  "address": "66 Emmet Center",
+  "image": "http://dummyimage.com/104x100.png/dddddd/000000"
+}, {
+  "id": 4,
+  "name": "Peluquería WOW",
+  "address": "6030 8th Park",
+  "image": "http://dummyimage.com/237x100.png/ff4444/ffffff"
+}, {
+  "id": 5,
+  "name": "Hair Salon Pro",
+  "address": "44709 Algoma Plaza",
+  "image": "http://dummyimage.com/118x100.png/5fa2dd/ffffff"
+}]
